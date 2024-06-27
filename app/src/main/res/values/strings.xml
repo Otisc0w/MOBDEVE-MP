@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Content</string>
+
+    <string name="news_a"> lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+    </string>
+
+    <string name="news_b">smosh is gone
+    </string>
+
+    <string name="news_c">nigahiga is gone
+    </string>
+
+    <string name="news_d">tyler1 plays league
+    </string>
+
+    <string name="news_e">speed is funny
+    </string>
+
+    <string name="news_f">pewdiepie is cool
+    </string>
+</resources>
